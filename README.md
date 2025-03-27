@@ -2,7 +2,7 @@
 
 This repository contains work done for a project as part of the ISMIN program at Mines de Saint-Etienne.
 
-By Grégory Bertrand, Manon Devaux, Léon Fuchs, and Thomas Payet
+By Grégory Bertrand, Manon Devaux, Léon Fuchs and Thomas Payet
 
 ## Installation
 
